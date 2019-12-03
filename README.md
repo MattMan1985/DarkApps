@@ -1,10 +1,12 @@
 # DarkApps Package
 
-##About##
+## About ##
+
 Welcome to the DarkApps Release thread!
 A new custom Apps package which contain all the required Google Application and some extra goodies.
 
-##Gapps Included##
+## Gapps Included ##
+
 •Google Dialer
 •Google Messages
 •Google Calendar
@@ -17,13 +19,15 @@ A new custom Apps package which contain all the required Google Application and 
 •Digital wellbeing
 •Retro Music player
 
-##Android Version Support##
+## Android Version Support ##
+
 •Q (10.0)
 •Pie (9.0)
 •Oreo (8.1)
 •Nougat (7.1.2)
 
-##Credits##
+## Credits ##
+
 •Google LLC
 •OpenGApps
 •Magisk
