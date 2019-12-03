@@ -1,7 +1,29 @@
-# Magisk Installer
+# DarkApps Package
 
-**Update `README.md` if you want to submit your module to the online repo!**
+##About##
+Welcome to the DarkApps Release thread!
+A new custom Apps package which contain all the required Google Application and some extra goodies.
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
+##Gapps Included##
+•Google Dialer
+•Google Messages
+•Google Calendar
+•Google Calculator
+•Gboard
+•GoogleClock
+•GalleryGo
+•Gmail
+•Google Sounds
+•Digital wellbeing
+•Retro Music player
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+##Android Version Support##
+•Q (10.0)
+•Pie (9.0)
+•Oreo (8.1)
+•Nougat (7.1.2)
+
+##Credits##
+•Google LLC
+•OpenGApps
+•Magisk
